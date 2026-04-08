@@ -112,7 +112,16 @@ Visualize with Matplotlib
 | `youtube_barchart.png` | Bar chart — top 10 videos by views |
 
 ---
+## Visual outputs
 
+### Bar chart
+!<img width="1200" height="600" alt="youtube_barchart" src="https://github.com/user-attachments/assets/cb20fc94-e97d-47d1-91f8-dd883a8648c0" />
+### Pie Chart
+!<img width="1200" height="600" alt="youtube_piechart" src="https://github.com/user-attachments/assets/cf8c1ada-ebf0-4263-b605-93a849c6b0ba" />
+
+
+
+---
 ## 📋 Requirements
 
 - Python 3.8+
